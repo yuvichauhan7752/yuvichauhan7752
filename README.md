@@ -1,3 +1,4 @@
+![logo](https://github.com/yuvichauhan7752/yuvichauhan7752/blob/main/Bg.jpeg)
 <h1 align="center">Hi 👋, I'm YUVRAJ SINGH</h1>
 <h3 align="center">A Passionate Web Designing</h3>
 
